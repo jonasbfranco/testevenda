@@ -1,0 +1,14 @@
+### LINK DO SITE
+https://testevenda.vercel.app/
+
+
+### COMANDOS
+npm run dev
+
+
+### PACOTES
+
+
+### PRISMA
+
+
